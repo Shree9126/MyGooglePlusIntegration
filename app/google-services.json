@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "52997390484",
+    "project_id": "aqueous-thought-163204"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52997390484:android:0f6f7e5dae25223f",
+        "android_client_info": {
+          "package_name": "com.mindnotix.googleplusintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52997390484-6j9j25org13icvgnd3vlotolttj2ro66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindnotix.googleplusintegration",
+            "certificate_hash": "d6fac29d677e74818924b800a231a03487716669"
+          }
+        },
+        {
+          "client_id": "52997390484-pdflpqijlchk5vt7dr4g5e6bom1v1ebp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxtgQ97BlPvIpMLcbpmSqYzrZijQjDwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52997390484:android:d458faf2fcfb8d36",
+        "android_client_info": {
+          "package_name": "com.mindnotix.mygoogleplusintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52997390484-87198lflcee53mrkagd6c2hrbcundj52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindnotix.mygoogleplusintegration",
+            "certificate_hash": "74bea4c50006226dc5abb36d58bc3c15737259f8"
+          }
+        },
+        {
+          "client_id": "52997390484-pdflpqijlchk5vt7dr4g5e6bom1v1ebp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxtgQ97BlPvIpMLcbpmSqYzrZijQjDwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
